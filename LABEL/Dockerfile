@@ -4,3 +4,5 @@ LABEL maintainer="Your Name <Joindevops.com>" \
        Course="Docker for Beginners" \
        Trainer="Siva Kumar" \
        Duration="2 hours" \
+       AUTHOR="Siva Kumar, Joindevops.com" \
+       Version="1.0" \
