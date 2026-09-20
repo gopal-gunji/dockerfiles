@@ -6,3 +6,4 @@ ARG Course="Docker for Beginners" \
     AUTHOR="Siva Kumar, Joindevops.com" \
     Version="1.0" \
 RUN echo "Trainer is : ${Trainer}"
+CMD ["sleep", "200"]
